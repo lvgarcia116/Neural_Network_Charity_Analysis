@@ -1,4 +1,4 @@
-# Neural_Network_Charity_Analysiss
+# Neural_Network_Charity_Analysis
 ## Overview of analysis:
 This project is intended to analyze a CSV containing over 34,000 organization that have received funding from Alphabet Soup over the years. The purpose of this analysi is to use ML and neural networks to create a binary classifier that is capable of predicting whether applicants will be successful if funded by Alphabet Soup.
 
